@@ -1,0 +1,22 @@
+body {
+  font-family: Palatino;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+};
+
+li {
+  padding: none;
+};
+
+div {
+  text-align: center;
+}
+
+#new-item-form, h1, li {
+  text-align: center;
+  margin:auto;
+  margin:1%;
+};
