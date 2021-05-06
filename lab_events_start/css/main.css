@@ -1,5 +1,6 @@
 body {
   font-family: Palatino;
+  background-color: aliceblue;
 }
 
 ul {
@@ -20,3 +21,4 @@ div {
   margin:auto;
   margin:1%;
 };
+
